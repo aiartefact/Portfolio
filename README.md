@@ -11,5 +11,9 @@ Portfolio repository for different projects published mostly for learning and de
 		* GitHub Pages: https://aiartefact.github.io/Space-Shooter-Web/Builds/Final/
 		* GitHub repository: https://github.com/aiartefact/Space-Shooter-Web
 
+* C++:
+	* Crypt - a course project program implementing most popular symmetric cryptographic algorithms and hash functions. It allows to encrypt and decrypt a user given file using 6 different symmetric cryptographic algorithms (TEA, Blowfish, DES, AES, RC4, RC5) with the user provided key. It also allows to calculate hash functions (CRC32, SHA-1, MD5) of a user given file. This program posesses an intuitive visual interface and is written using MFC.
+		* GitHub repository: https://github.com/aiartefact/Portfolio/C++/Crypt
+
 More to come...
 
