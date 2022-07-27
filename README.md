@@ -3,7 +3,7 @@ Portfolio repository for different projects published mostly for learning and de
 
 * Web:
 	* Custom Company Website – adaptive SPA for learning and demonstration purposes created with HTML, CSS, JavaScript and Bootstrap 5.0.1:
-		* GitHub Pages: [https://aiartefact.github.io/custom-company-website/index.html] (https://aiartefact.github.io/custom-company-website/index.html)
+		* GitHub Pages: https://aiartefact.github.io/custom-company-website/index.html
 		* GitHub repository: [https://github.com/aiartefact/custom-company-website] (https://github.com/aiartefact/custom-company-website)
 
 * Unity:
